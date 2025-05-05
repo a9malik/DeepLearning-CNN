@@ -5,9 +5,12 @@ Perkembangannya adalah ANN (1980an) - CNN (1989) - Beyond CNN (2015-Now)
 
 **Arsitektur CNN**
 1. Input layer : Menerima gambar sebagai input dalam bentuk matriks (misalnya 224×224×3 untuk gambar RGB).
-2. Convolutional Layer : Conv1D, Conv2D, Conv3D dan Conv4D
-3. Activation Layer : Membantu model belajar hubungan kompleks
-4. Pooling Layer : Mengurangi dimensi lebar dan tinggi
+2. Convolutional Layer :
+   - Conv1D : Untuk data sekuensial, seperti sinyal atau teks 
+   - Conv2D : Untuk data 2D seperti gambar
+   - Conv3D : Untuk data 3D Video atau citra volumetrik
+4. Activation Layer : Membantu model belajar hubungan kompleks
+5. Pooling Layer : Mengurangi dimensi lebar dan tinggi
 6. Fully Connected Layer : Menggabungkan semua fitur yang di ekstrasi untuk menghasilkan prediksi akhir
 7. Output Layer : Lapisan terakhir
 
