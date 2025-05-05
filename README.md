@@ -14,6 +14,13 @@ Perkembangannya adalah ANN (1980an) - CNN (1989) - Beyond CNN (2015-Now)
 6. Fully Connected Layer : Menggabungkan semua fitur yang di ekstrasi untuk menghasilkan prediksi akhir
 7. Output Layer : Lapisan terakhir
 
+**Perbedaan Convolutional Layer**
+
+Conv1D  
+
+![image](https://github.com/user-attachments/assets/e1c9a469-a336-4bbd-a674-09568140eb5b)
+
+
 **Tahapan Penggunaan CNN**
 1. Persiapan Data
    - Load dataset (contoh: pandas.read_csv).
