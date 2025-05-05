@@ -18,8 +18,15 @@ Perkembangannya adalah ANN (1980an) - CNN (1989) - Beyond CNN (2015-Now)
 
 Conv1D  
 
-![image](https://github.com/user-attachments/assets/e1c9a469-a336-4bbd-a674-09568140eb5b)
+![image](https://github.com/user-attachments/assets/e1c9a469-a336-4bbd-a674-09568140eb5b)  
 
+Conv2D
+
+![image](https://github.com/user-attachments/assets/f8722516-156c-41e8-a085-3bc39e7ba79f)
+
+Conv3D
+
+![image](https://github.com/user-attachments/assets/c229bd75-30e6-4f42-a5a7-86a65644b753)
 
 **Tahapan Penggunaan CNN**
 1. Persiapan Data
